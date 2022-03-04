@@ -38,10 +38,6 @@
 		</dependency>
 		<dependency>
 			<groupId>io.quarkus</groupId>
-			<artifactId>quarkus-elytron-security-oauth2</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>io.quarkus</groupId>
 			<artifactId>quarkus-mongodb-panache</artifactId>
 		</dependency>
 		<dependency>
@@ -55,10 +51,6 @@
 		<dependency>
 			<groupId>io.quarkus</groupId>
 			<artifactId>quarkus-logging-json</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>io.quarkus</groupId>
-			<artifactId>quarkus-kubernetes</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>io.quarkus</groupId>
