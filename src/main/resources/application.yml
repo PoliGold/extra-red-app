@@ -1,2 +1,13 @@
 greeting:
   message: "hello"
+quarkus:
+  log:
+    console:
+      enable: true
+      json:
+        pretty-print: true
+      level: DEBUG
+      color: true
+  mongodb:
+    connection-string: mongodb://localhost:27017
+    database: extra-red-db

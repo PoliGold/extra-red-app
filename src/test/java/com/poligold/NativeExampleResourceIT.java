@@ -1,4 +1,4 @@
-package com.example;
+package com.poligold;
 
 import io.quarkus.test.junit.NativeImageTest;
 
